@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "225830429201",
+    "project_id": "crudfirebase-1052a",
+    "storage_bucket": "crudfirebase-1052a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225830429201:android:499eb274bc1392df5e47b0",
+        "android_client_info": {
+          "package_name": "com.example.belajar_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTcOs_wBbuqvktmCSYYfK6BbpI_jp6l1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
